@@ -44,7 +44,7 @@ public void validateStock() throws FindFailed
 
 Screen sc=new Screen();
 
-Pattern name=new Pattern("C:\\Users\\sir\\Desktop\\intraday.PNG") ;
+Pattern name=new Pattern("src//test//resources//intraday.PNG") ;
 
 sc.click(name);
 
