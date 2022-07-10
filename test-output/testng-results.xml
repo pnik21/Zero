@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13875" started-at="2022-07-08T12:44:32 IST" finished-at="2022-07-08T12:44:46 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13875" started-at="2022-07-08T12:44:32 IST" finished-at="2022-07-08T12:44:46 IST">
+      <class name="Test_Execution.Execution">
+        <test-method status="PASS" signature="ForOpenBrowser()[pri:0, instance:Test_Execution.Execution@161b062a]" name="ForOpenBrowser" is-config="true" duration-ms="13669" started-at="2022-07-08T12:44:18 IST" finished-at="2022-07-08T12:44:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForOpenBrowser -->
+        <test-method status="PASS" signature="ForLogin()[pri:1, instance:Test_Execution.Execution@161b062a]" name="ForLogin" duration-ms="1218" started-at="2022-07-08T12:44:32 IST" finished-at="2022-07-08T12:44:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForLogin -->
+        <test-method status="PASS" signature="ForWishList()[pri:2, instance:Test_Execution.Execution@161b062a]" name="ForWishList" duration-ms="2643" started-at="2022-07-08T12:44:33 IST" finished-at="2022-07-08T12:44:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForWishList -->
+        <test-method status="PASS" signature="stock()[pri:3, instance:Test_Execution.Execution@161b062a]" name="stock" duration-ms="9944" started-at="2022-07-08T12:44:36 IST" finished-at="2022-07-08T12:44:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stock -->
+      </class> <!-- Test_Execution.Execution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
